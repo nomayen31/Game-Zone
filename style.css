@@ -143,6 +143,7 @@ i {
   justify-content: space-around;
 }
 .gamer-title {
+  text-align: end;
   font-size: 48px;
   font-weight: 700;
   background: linear-gradient(180deg, #f948b2 0%, #8758f1 100%);
@@ -152,11 +153,13 @@ i {
   margin-bottom: 10px;
 }
 .gamer-description {
+  text-align: end;
   color: #534c64;
   font-size: 18px;
   font-weight: 400;
 }
 .know-btn {
+  margin-left: 350px;
   margin-top: 20px;
   padding: 15px 30px;
   border-radius: 48px;
@@ -168,10 +171,12 @@ i {
   background: var(--linear, linear-gradient(90deg, #ff42a5 0%, #ff42a5 100%));
 }
 .purpose {
+  text-align: end;
   margin-top: 20px;
   margin-left: 50px;
 }
 .purpose-big-text {
+  text-align: end;
   font-size: 30px;
   font-weight: 600;
 }
