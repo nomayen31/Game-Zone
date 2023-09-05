@@ -198,40 +198,7 @@ p {
   margin-top: 15px;
   text-align: justify;
 }
-/* play game section */
- /* .play-instantly-section {
-  margin-top: 100px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.no-download {
-  font-size: 48px;
-  font-weight: 700;
-}
-.play-section-info {
-  margin-top: 20px;
-}
-.play-image-container {
-  position: relative;
-}
-.primary-img {
-  width: 80%;
-  margin-left: 150px;
-  overflow: hidden;
-}
-.secondary-img {
-  position: absolute;
-  top: 365px;
-  left: 35px;
-}
- */
 
-
-
-
- 
-/* section 2 style */
 
 
 .section-2 h1 {
@@ -283,11 +250,6 @@ p {
 }
 
 
-
-
-
-
-
 /* Container for the image and overlay */
 .image-container {
   position: relative;
@@ -334,8 +296,6 @@ p {
 
 
 
-
-
 .play-section {
   margin-top: 100px;
   display: flex;
@@ -362,14 +322,6 @@ p {
   top: 365px;
   left: 35px;
 }
-
-
-
-
-
-
-
-
 
 
 /* multiple game section styles */
@@ -446,12 +398,6 @@ p {
   margin-bottom: 20px;
   cursor: pointer;
 }
-
-
-
-
-
-
 
 
 
