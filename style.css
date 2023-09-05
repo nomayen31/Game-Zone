@@ -159,7 +159,6 @@ i {
   font-weight: 400;
 }
 .know-btn {
-  margin-left: 350px;
   margin-top: 20px;
   padding: 15px 30px;
   border-radius: 48px;
@@ -490,8 +489,12 @@ p {
     cursor: pointer;
     background: var(--linear, linear-gradient(90deg, #ff42a5 0%, #ff42a5 100%));
   }
-
-
+.purpose{
+  text-align: center;
+}
+.purpose-big-text{
+  text-align: center;
+}
 
 
 
